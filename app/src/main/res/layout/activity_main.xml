@@ -30,7 +30,6 @@
             android:layout_marginLeft="16dp"
             android:spinnerMode="dropdown"/>
     </LinearLayout>
-
     <LinearLayout
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
@@ -45,15 +44,14 @@
             android:layout_marginLeft="8dp"
             android:textColor="@color/black"
             android:text="Product" />
-        <EditText
-            android:id="@+id/et_product"
-            android:layout_width="wrap_content"
+        <Spinner
+            android:id="@+id/spinner_product"
+            android:layout_width="150dp"
             android:layout_height="wrap_content"
-            android:layout_weight="3"
+            android:layout_weight="2"
             android:layout_gravity="center_vertical"
             android:layout_marginLeft="16dp"
-            android:layout_marginRight="8dp"
-            android:hint=" Product name"/>
+            android:spinnerMode="dropdown"/>
     </LinearLayout>
     <LinearLayout
         android:layout_width="match_parent"
@@ -69,35 +67,36 @@
             android:layout_marginLeft="8dp"
             android:textColor="@color/black"
             android:text="Price" />
-        <EditText
-            android:id="@+id/et_price"
-            android:layout_width="80dp"
+        <TextView
+            android:id="@+id/price_text"
+            android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:layout_weight="3"
+            android:layout_weight="1"
+            android:textSize="18sp"
             android:layout_gravity="center_vertical"
-            android:layout_marginLeft="16dp"
-            android:layout_marginRight="8dp"
-            android:inputType="number"
-            android:hint=" Rs."/>
+            android:layout_marginLeft="8dp"
+            android:textColor="@color/black"
+            android:text="Rs. 2000" />
+
     </LinearLayout>
+
     <LinearLayout
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_marginLeft="8dp"
         android:layout_marginRight="8dp"
         android:layout_marginTop="16dp"
+        android:gravity="center"
         android:orientation="horizontal">
         <Button
             android:id="@+id/btn_submit"
-            android:layout_width="wrap_content"
+            android:layout_width="150dp"
             android:layout_height="wrap_content"
-            android:layout_weight="1"
-            android:text="Submit"/>
+            android:text="Submit Order"/>
         <Button
             android:id="@+id/btn_view"
-            android:layout_width="wrap_content"
+            android:layout_width="150dp"
             android:layout_height="wrap_content"
-            android:layout_weight="1"
             android:layout_marginLeft="16dp"
             android:text="View"/>
     </LinearLayout>
