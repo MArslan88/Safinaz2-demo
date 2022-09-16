@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "210857078699",
+    "project_id": "safinaz2",
+    "storage_bucket": "safinaz2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:210857078699:android:fa189609525ce8e5576cee",
+        "android_client_info": {
+          "package_name": "com.mhdarslan.safinaz2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "210857078699-cmbk12pkagp0rerv32omaf2roa9cr28n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUqKjRLLIZA4idN6p46QxmG5jyB7TiBRc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "210857078699-cmbk12pkagp0rerv32omaf2roa9cr28n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
