@@ -7,4 +7,36 @@
     <color name="teal_700">#FF018786</color>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+
+
+    <color name="theme_green">#00BFA6</color>
+    <color name="text_color">#3D3D3D</color>
+    <color name="text_gray">#95989A</color>
+    <color name="text_blue">#19769F</color>
+    <color name="text_sky_blue">#2095F2</color>
+    <color name="text_orrange">#FB7268</color>
+    <color name="health_diary_bg">#54EEBE20</color>
+
+    <color name="bg_gray">#F5F5F5</color>
+
+    <color name="gradient_start">#19769F</color>
+    <color name="gradient_end">#35D8A6</color>
+
+    <color name="dot_gray">#B9B8B8</color>
+    <color name="dot_green">#00BFA6</color>
+
+    <!--    Covid Tracker Colors-->
+
+    <color name="colorPrimary">#66BB6A</color>
+    <color name="colorPrimaryDark">#66BB6A</color>
+    <color name="colorAccent">#05af9b</color>
+
+    <color name="color_one">#fb7268</color>
+    <color name="color_white">#ededf2</color>
+    <color name="color_two">#E3E0E0</color>
+
+    <color name="cases">#FFA726</color>
+    <color name="recovered">#66BB6A</color>
+    <color name="deaths">#EF5350</color>
+    <color name="active">#29B6F6</color>
 </resources>

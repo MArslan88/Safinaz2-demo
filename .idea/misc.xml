@@ -3,8 +3,14 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/gery_/AndroidStudioProjects/Safinaz2/app/src/main/res/drawable/btn_bg.xml" value="0.151" />
+        <entry key="..\:/Users/gery_/AndroidStudioProjects/Safinaz2/app/src/main/res/drawable/input.xml" value="0.151" />
+        <entry key="..\:/Users/gery_/AndroidStudioProjects/Safinaz2/app/src/main/res/layout-w1240dp/activity_login.xml" value="0.178515625" />
+        <entry key="..\:/Users/gery_/AndroidStudioProjects/Safinaz2/app/src/main/res/layout-w936dp/activity_login.xml" value="0.159765625" />
+        <entry key="..\:/Users/gery_/AndroidStudioProjects/Safinaz2/app/src/main/res/layout/activity_login.xml" value="0.21302083333333333" />
         <entry key="..\:/Users/gery_/AndroidStudioProjects/Safinaz2/app/src/main/res/layout/activity_main.xml" value="0.25" />
         <entry key="..\:/Users/gery_/AndroidStudioProjects/Safinaz2/app/src/main/res/layout/activity_order.xml" value="0.21302083333333333" />
+        <entry key="..\:/Users/gery_/AndroidStudioProjects/Safinaz2/app/src/main/res/layout/activity_profile.xml" value="0.19895833333333332" />
         <entry key="..\:/Users/gery_/AndroidStudioProjects/Safinaz2/app/src/main/res/layout/data_item.xml" value="0.25" />
       </map>
     </option>
