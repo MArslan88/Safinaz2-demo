@@ -35,6 +35,7 @@ public class MainActivity extends AppCompatActivity {
     Button btn_submit, btn_view;
 
 
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -49,6 +50,7 @@ public class MainActivity extends AppCompatActivity {
 
         btn_submit = findViewById(R.id.btn_submit);
         btn_view = findViewById(R.id.btn_view);
+
 
 
         //create a list of items for the spinner.
@@ -103,6 +105,8 @@ public class MainActivity extends AppCompatActivity {
         });
 
     }
+
+
 
 
     private void sendData(String category, String product, String price){

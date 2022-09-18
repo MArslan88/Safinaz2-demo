@@ -13,9 +13,8 @@
         android:layout_marginTop="16dp"
         android:orientation="horizontal">
         <TextView
-            android:layout_width="wrap_content"
+            android:layout_width="120dp"
             android:layout_height="wrap_content"
-            android:layout_weight="1"
             android:textSize="18sp"
             android:layout_gravity="center_vertical"
             android:layout_marginLeft="8dp"
@@ -23,9 +22,8 @@
             android:text="Category" />
         <Spinner
             android:id="@+id/spinner_category"
-            android:layout_width="150dp"
+            android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:layout_weight="2"
             android:layout_gravity="center_vertical"
             android:layout_marginLeft="16dp"
             android:spinnerMode="dropdown"/>
@@ -36,9 +34,8 @@
         android:layout_marginTop="16dp"
         android:orientation="horizontal">
         <TextView
-            android:layout_width="wrap_content"
+            android:layout_width="120dp"
             android:layout_height="wrap_content"
-            android:layout_weight="1"
             android:textSize="18sp"
             android:layout_gravity="center_vertical"
             android:layout_marginLeft="8dp"
@@ -46,9 +43,8 @@
             android:text="Product" />
         <Spinner
             android:id="@+id/spinner_product"
-            android:layout_width="150dp"
+            android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:layout_weight="2"
             android:layout_gravity="center_vertical"
             android:layout_marginLeft="16dp"
             android:spinnerMode="dropdown"/>
@@ -59,9 +55,8 @@
         android:layout_marginTop="16dp"
         android:orientation="horizontal">
         <TextView
-            android:layout_width="wrap_content"
+            android:layout_width="120dp"
             android:layout_height="wrap_content"
-            android:layout_weight="1"
             android:textSize="18sp"
             android:layout_gravity="center_vertical"
             android:layout_marginLeft="8dp"
@@ -71,10 +66,10 @@
             android:id="@+id/price_text"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:layout_weight="1"
             android:textSize="18sp"
             android:layout_gravity="center_vertical"
-            android:layout_marginLeft="8dp"
+            android:layout_marginLeft="16dp"
+            android:paddingLeft="8dp"
             android:textColor="@color/black"
             android:text="Rs. 2000" />
 
